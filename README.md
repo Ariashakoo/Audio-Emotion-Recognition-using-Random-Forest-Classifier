@@ -1,4 +1,4 @@
-# Audio-Emotion-Recognition-using-Random-Forest-Classifier# Audio Emotion Recognition using Random Forest Classifier
+
 
 ## Overview
 This project implements an audio emotion recognition system using a Random Forest Classifier to classify audio files based on their emotional content. The system extracts features from audio files and builds a model that can predict the emotion represented in new audio samples.
