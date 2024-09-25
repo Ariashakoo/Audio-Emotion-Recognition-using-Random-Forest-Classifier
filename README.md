@@ -43,3 +43,6 @@ The output will include label counts from the dataset, a detailed classification
 
 Contributing
 Contributions to the project are welcome. Feel free to fork the repository and submit a pull request with your enhancements.
+
+License
+This project is licensed under the MIT License
