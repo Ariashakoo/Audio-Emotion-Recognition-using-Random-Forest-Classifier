@@ -1,4 +1,4 @@
-
+# Audio Emotion Recognition using Random Forest Classifier
 
 ## Overview
 This project implements an audio emotion recognition system using a Random Forest Classifier to classify audio files based on their emotional content. The system extracts features from audio files and builds a model that can predict the emotion represented in new audio samples.
@@ -19,30 +19,4 @@ Ensure you have the following installed on your machine:
 - Python 3.x
 - Required Python packages (can be installed via pip)
 
-### Installation
-Clone the repository:
-```bash
-git clone <repository-url>
-cd <repository-directory>
-Install the required packages:
 
-Copy code to clipboard
-
-bash
-pip install numpy pandas librosa matplotlib scikit-learn
-Usage
-Update the data_directory variable in the script to the path containing your audio files.
-Run the script:
-Copy code to clipboard
-
-bash
-python your_script_name.py
-Observe the label counts, classification report, confusion matrix, and predicted distribution of emotions in a bar chart.
-Example Output
-The output will include label counts from the dataset, a detailed classification report, a confusion matrix, and a bar chart visualizing the predicted distribution of emotions.
-
-Contributing
-Contributions to the project are welcome. Feel free to fork the repository and submit a pull request with your enhancements.
-
-License
-This project is licensed under the MIT License
