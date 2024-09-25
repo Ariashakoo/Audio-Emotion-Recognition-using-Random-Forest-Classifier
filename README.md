@@ -19,4 +19,9 @@ Ensure you have the following installed on your machine:
 - Python 3.x
 - Required Python packages (can be installed via pip)
 
+Example Output
+The output will include label counts from the dataset, a detailed classification report, a confusion matrix, and a bar chart visualizing the predicted distribution of emotions.
+
+Contributing
+Contributions to the project are welcome. Feel free to fork the repository and submit a pull request with your enhancements.
 
